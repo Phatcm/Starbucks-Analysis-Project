@@ -4,12 +4,12 @@
 ![Starbucks Analysis Project](images/starbuck-logo.webp)
 
 ## Table of content
-1. [Project Overview](https://github.com/Phatcm/Starbucks-Analysis-Project/tree/main#1-project-overview)
-2. [Project Components](https://github.com/Phatcm/Starbucks-Analysis-Project/tree/main#2-project-components)
-3. [Installation](https://github.com/Phatcm/Starbucks-Analysis-Project/tree/main#3-installation)
-4. [File Descriptions](https://github.com/Phatcm/Starbucks-Analysis-Project/tree/main#4-file-descriptions)
-5. [Instructions](https://github.com/Phatcm/Starbucks-Analysis-Project/tree/main#5-instructions)
-6. [Credits and Acknowledgements](https://github.com/Phatcm/Starbucks-Analysis-Project/tree/main#6-credits-and-acknowledgements)
+1. [Project Overview](https://github.com/Phatcm/Starbucks-Analysis-Project?tab=readme-ov-file#1-project-overview)
+2. [Project Components](https://github.com/Phatcm/Starbucks-Analysis-Project?tab=readme-ov-file#2-project-components)
+3. [Installation](https://github.com/Phatcm/Starbucks-Analysis-Project?tab=readme-ov-file#3-installation)
+4. [File Descriptions](https://github.com/Phatcm/Starbucks-Analysis-Project?tab=readme-ov-file#4-file-descriptions)
+5. [Instructions](https://github.com/Phatcm/Starbucks-Analysis-Project?tab=readme-ov-file#5-instructions)
+6. [Credits and Acknowledgements](https://github.com/Phatcm/Starbucks-Analysis-Project?tab=readme-ov-file#6-credits-and-acknowledgements)
 
 ## 1. Project Overview
 The dataset represents customer interaction with Starbucks offers in a simulated rewards mobile app. Offers vary, ranging from promotional ads to incentives like discounts or "buy one, get one" deals. The project aims to explore how different demographic groups respond to these offers, combining demographic, transaction, and offer data to determine effective targeting strategies.  
